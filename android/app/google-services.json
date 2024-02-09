@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "297732993936",
+    "firebase_url": "https://wordpower-application123-default-rtdb.firebaseio.com",
+    "project_id": "wordpower-application123",
+    "storage_bucket": "wordpower-application123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297732993936:android:e089effa72555cb08bf915",
+        "android_client_info": {
+          "package_name": "com.example.wordpower_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297732993936-8ft1n1mdatr8um5t4vro5qkkruvilej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArh4tRI_dy946O-Rl7lMp8BI2kQCW4k1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297732993936-8ft1n1mdatr8um5t4vro5qkkruvilej6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297732993936-9ns4smn5egms97a9eon0ko0clek4k7s9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wordpowerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
